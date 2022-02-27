@@ -41,7 +41,7 @@ The team establishes a lot of trust with the community, there are daily AMAs and
 ## What other proof is there?
 
 Besides the transactions linking the Everearn Contract Creator to the Rugpull wallet of CardanoEvo and BabyCardano, the team has at some points in the AMAs contradicted themselves concerning the backstory of CardanoEvo.   
-In the AMA from Feb 15th 2022  [CardanoEvo Evolution Explained](https://www.youtube.com/watch?v=7BE0c29wshg&t=18m5s "CardanoEvo Evolution Explained 2/15/22") David Rahman claims, and it also reflects in the chat he showed, that he volunteered for BabyCardano (bADA). However, in the AMA from [Feb 26th 2022](https://www.youtube.com/watch?v=RUiqQAMHsHc&t=56m16s) he denies being involved in CardanoEvo v1 and BabyCardano and said they only joined the team for CardanoEvo v2.
+In the AMA from Feb 15th 2022  [CardanoEvo Evolution Explained](https://www.youtube.com/watch?v=7BE0c29wshg&t=18m5s "CardanoEvo Evolution Explained 2/15/22") David Rahman claims, and it also reflects in the chat he showed, that he volunteered for BabyCardano (bADA). However, in the [AMA from Feb 26th 2022](https://www.youtube.com/watch?v=RUiqQAMHsHc&t=56m16s) he denies being involved in CardanoEvo v1 and BabyCardano and said they only joined the team for CardanoEvo v2.
 
 ## Ok so they rugpulled these two, but how does the Everearn scam work?
 
