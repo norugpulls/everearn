@@ -23,7 +23,7 @@ BNB Transfer links (RP) and (A) wallet:  [Binance Transaction Hash (Txhash) Deta
 BNB Transfer links (EC) and (A) wallet:  [Binance Transaction Hash (Txhash) Details | BscScan](https://bscscan.com/tx/0xef943ce652c091acbb5a252764a23432cdb746784b4ccb0291c5da85b1998606) 
 
 
-So both Rugpull wallet (RP) and Everearn Creator wallet (EC) transfer high amounts of BNB to the same Aggregator wallet (A), which already transferred more than 580 BNB through the Output wallet (O) to a BSC Hub.  
+So both Rugpull wallet (RP) and Everearn Creator wallet (EC) transfer high amounts of BNB to the same Aggregator wallet (A), which already transferred more than 560 BNB through the Output wallet (O) to a BSC Hub.  
 Note, there are more transactions that link the Rugpull wallet (RP) and the Everearn Creator wallet (EC).
 
 ## Why did the token address change between the first canceled presale and the second finalized presale?
