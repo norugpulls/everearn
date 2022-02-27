@@ -74,4 +74,8 @@ The exchange wallet unlocks at [2022.03.27 09:00 UTC](https://www.pinksale.finan
 ## The Team behind this
 
 The team consists of at least 2 persons with the aliases David Rahman and Trent Butler. 
-The ohter devs on the websites are probably fake, since they get blamed everytime they rugpull or sell from a dev wallet. 
+The other devs on the websites/whitepaper are probably fake, since they get blamed everytime they rugpull or sell from a dev wallet, yes this happened multiple times! 
+
+everearn_team.png  
+touch_future_cardano_evo_team.png  
+https://github.com/norugpulls/everearn/blob/f01d16a385c008ec1901fbbbaa2abdae6a84f095/Evolution-Whitepaper-pdf.pdf
