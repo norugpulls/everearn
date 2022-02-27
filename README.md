@@ -4,6 +4,9 @@ The Everearn team David Rahman and Trent Butler (names probably fake) **rugpulle
 ![Wallet Links](wallet_links.png)  
 Show on bscscan: [Address 0xFCe54465ad5F95A3379BA37F67Ab25E818996e47 | BscScan](https://bscscan.com/address/0xFCe54465ad5F95A3379BA37F67Ab25E818996e47)
 
+![Wallet Links 2](wallet_links2.png)  
+Show on bscscan: [Address 0x14cd90E5D730421E6B22640bB4A4124b92EFF016 | BscScan](https://bscscan.com/address/0x14cd90E5D730421E6B22640bB4A4124b92EFF016)
+
 ## Tokens:
 
 BabyCardano (bADA):  [Contract Address 0x154697e2d1362796fD778044030079d8c184e0F8 | BscScan](https://bscscan.com/address/0x154697e2d1362796fD778044030079d8c184e0F8)  
