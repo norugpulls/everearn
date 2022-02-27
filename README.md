@@ -1,6 +1,8 @@
 # EverEarn
 The Everearn team David Rahman and Trent Butler (names probably fake) **rugpulled** BabyCardano and CardanoEvo v1. They claim they were only moderators for Cardanoevo v2, but this has proven to be a lie. Here is the **proof** that links the Everearn Creator wallet to the wallet that rugpulled BabyCardano and CardanoEvo v1.
 
+![Wallet Links](wallet_links.png)  
+
 ## Tokens:
 
 BabyCardano (bADA):  [Contract Address 0x154697e2d1362796fD778044030079d8c184e0F8 | BscScan](https://bscscan.com/address/0x154697e2d1362796fD778044030079d8c184e0F8)  
