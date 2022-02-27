@@ -51,7 +51,7 @@ In the AMA from Feb 15th 2022  [CardanoEvo Evolution Explained](https://www.yout
 
 ## Ok so they rugpulled these two, but how does the Everearn scam work?
 
-As of now Everearn has not been rugpulled, but they are continuously draining the Marketing wallet (M) that receives 2% BNB of every transaction. Here are some of the drain wallets (there are a lot), no surprise the Aggregator wallet (A) is one of those, so even more connection to the rugpulls of CardanoEvo and BabyCardano:
+As of now Everearn has not been rugpulled, but they are continuously draining the Marketing wallet (M) that receives 2% BNB of every transaction. Here are some of the drain wallets (there are a lot), no surprise the Aggregator wallet (A) is one of those, so even more connections to the rugpulls of CardanoEvo and BabyCardano:
 
 Main Drain wallet: [Address 0xf3514bd18ff9c23ec22c2904eb6111742fcb6d47 | BscScan](https://bscscan.com/address/0xf3514bd18ff9c23ec22c2904eb6111742fcb6d47) (MD)  
 Another Drain wallet: [Address 0x29a1ad005df47b38b059b67e00e40903fc0a55be | BscScan](https://bscscan.com/address/0x29a1ad005df47b38b059b67e00e40903fc0a55be) (AD)
