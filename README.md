@@ -60,7 +60,7 @@ Another Drain wallet: [Address 0x29a1ad005df47b38b059b67e00e40903fc0a55be | BscS
 
 The good news is the liquidity is still locked until [2022.07.27 15:24 UTC](https://www.pinksale.finance/#/pinklock/record/17497?chain=BSC). The bad news all of the teams projects didn't last this long.  In fact they all launched and failed within a few months of each other:
 
-**CardanoEvo v??**: [https://evolutioncrypto.net/](https://evolutioncrypto.net/)  0xf2761e6f56fc3fba0f519e441720f80c087dba13   
+**Evolution**: [https://evolutioncrypto.net/](https://evolutioncrypto.net/)  0xf2761e6f56fc3fba0f519e441720f80c087dba13   
 **CardanoEvo v2**: [https://cardanoevo.com/](https://cardanoevo.com/)  0xc23997371bd83de427b41dabe11846c87696f40a  
 **Touch Future**: [https://touchfuture.io/](https://touchfuture.io/)  0x54f11c03d93bf9a4d222363d445df7df6608ee89  
 **EverEarn**: [https://everearn.net/](https://everearn.net/) 0x47d42E0e864ceFf8C4270F7b6E1f6F91Da45882C
@@ -77,4 +77,4 @@ The other devs on the websites/whitepaper are probably fake, since they get blam
 
 ![EverEarn](everearn_team.png)  
 ![Touch Future](touch_future_cardano_evo_team.png)  
-CardanoEvo v?? see whitepaper: https://github.com/norugpulls/everearn/blob/f01d16a385c008ec1901fbbbaa2abdae6a84f095/Evolution-Whitepaper-pdf.pdf
+Evolution see whitepaper: https://github.com/norugpulls/everearn/blob/f01d16a385c008ec1901fbbbaa2abdae6a84f095/Evolution-Whitepaper-pdf.pdf
