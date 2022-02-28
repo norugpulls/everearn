@@ -7,6 +7,9 @@ Show on bscscan: [Address 0xFCe54465ad5F95A3379BA37F67Ab25E818996e47 | BscScan](
 ![Wallet Links 2](wallet_links2.png)  
 Show on bscscan: [Address 0x14cd90E5D730421E6B22640bB4A4124b92EFF016 | BscScan](https://bscscan.com/address/0x14cd90E5D730421E6B22640bB4A4124b92EFF016)
 
+![Owner and Marketing Wallet](owner_marketing_wallet.png)  
+Show on bscscan: [Contract Address 0x47d42e0e864ceff8c4270f7b6e1f6f91da45882c | BscScan](https://bscscan.com/address/0x47d42e0e864ceff8c4270f7b6e1f6f91da45882c#readContract)
+
 ## Tokens:
 
 BabyCardano (bADA):  [Contract Address 0x154697e2d1362796fD778044030079d8c184e0F8 | BscScan](https://bscscan.com/address/0x154697e2d1362796fD778044030079d8c184e0F8)  
