@@ -13,8 +13,8 @@ Show on bscscan: [Contract Address 0x47d42e0e864ceff8c4270f7b6e1f6f91da45882c | 
 ## Tokens:
 
 BabyCardano (bADA):  [Contract Address 0x154697e2d1362796fD778044030079d8c184e0F8 | BscScan](https://bscscan.com/address/0x154697e2d1362796fD778044030079d8c184e0F8)  
-CardanoEvo v1 (cEvo):  [Contract Address 0x7a18B98765f24A85f7966773A48A1D59d7Ac51e2 | BscScan](https://bscscan.com/address/0x7a18B98765f24A85f7966773A48A1D59d7Ac51e2)
-CardanoEvo v2 (cEvo): [Contract Address 0xc23997371bd83de427b41DAbE11846C87696f40a | BscScan](https://bscscan.com/address/0xc23997371bd83de427b41DAbE11846C87696f40a) 
+CardanoEvo v1 (cEvo):  [Contract Address 0x7a18B98765f24A85f7966773A48A1D59d7Ac51e2 | BscScan](https://bscscan.com/address/0x7a18B98765f24A85f7966773A48A1D59d7Ac51e2)  
+CardanoEvo v2 (cEvo): [Contract Address 0xc23997371bd83de427b41DAbE11846C87696f40a | BscScan](https://bscscan.com/address/0xc23997371bd83de427b41DAbE11846C87696f40a)   
 Everearn (EARN):  [Contract Address 0x47d42E0e864ceFf8C4270F7b6E1f6F91Da45882C | BscScan](https://bscscan.com/address/0x47d42E0e864ceFf8C4270F7b6E1f6F91Da45882C) 
 
 ## Wallets:
