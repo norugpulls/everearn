@@ -76,7 +76,7 @@ The good news is the liquidity is still locked until [2022.07.27 15:24 UTC](http
 
 It is likely that at some point the dev, staking or exchange wallet will start selling. And it probably gets blamed on the devs (Erico Gomes and Aaron Perras) of the team just like it happened with CardanoEvo (blamed Steve and Usema). Until then they will continue to steal the marketing tax.
 
-The staking wallet unlocks at [2022.03.03 08:00 UTC](https://www.pinksale.finance/#/pinklock/record/17404?chain=BSC)  
+The staking wallet unlocks at [2022.03.07 08:00 UTC](https://www.pinksale.finance/#/pinklock/record/17404?chain=BSC)  
 The exchange wallet unlocks at [2022.03.27 09:00 UTC](https://www.pinksale.finance/#/pinklock/record/17403?chain=BSC)
 
 ## The Team behind this
